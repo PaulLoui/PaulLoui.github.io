@@ -1,4 +1,5 @@
 +pragma solidity ^0.4.8; 
++///Paul Louis VAN VYNCKT & Thomas BLOW
 +contract Vote {   
 +       
 +    //Structures   
